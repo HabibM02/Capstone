@@ -13,3 +13,7 @@ The Accuracy sore is 0.7154989 meaning the model predicted the outcome correctly
 The Classification report shows that the model is better at predicting non-Liberal wins than it is at predicting Liberal wins. Class 0 is non-Liberal, class 1 is Liberal. 
 Confusion Matrix: False negatives (83): These are Liberal wins that were wrongly predicted as non-Liberal.
 False positives (51): Non-Liberal ridings predicted incorrectly as Liberal.
+
+# Next Steps
+I will delve deeper into expanding on the predictive analytics portion to take into account additional features such as demographic changes or voter turnout. I will also create another model for Anomaly Detection to see if there were any major shifts, and if we can try to anticipate such shifts in the future.
+
