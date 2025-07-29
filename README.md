@@ -15,5 +15,6 @@ Confusion Matrix: False negatives (83): These are Liberal wins that were wrongly
 False positives (51): Non-Liberal ridings predicted incorrectly as Liberal.
 
 # Next Steps
-I will delve deeper into expanding on the predictive analytics portion to take into account additional features such as demographic changes or voter turnout. I will also create another model for Anomaly Detection to see if there were any major shifts, and if we can try to anticipate such shifts in the future.
+I will delve deeper into expanding on the predictive analytics with additional models to train the datasets and test for predictive purposes. Based on the results of each model, I will conclude by choosing the model that I believe is best one for my selected dependant variable, which was chosen to Y = Liberal Win. 
+The models I have chosen to test are, Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbor (KNN), and Naive Bayes. 
 
